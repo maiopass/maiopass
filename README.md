@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maiopass
+- 👋 Hi, I’m Mailson
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning (Supervised and Unsupervised Learning) and optimization algorithms.
 
